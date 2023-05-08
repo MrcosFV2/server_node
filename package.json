@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "Express": "^3.0.1",
+    "cors": "^2.8.5",
+    "yarn": "^1.22.19"
+  },
+  "name": "server_node",
+  "version": "0.0.1",
+  "description": "Servidor em nodejs",
+  "main": "index.js",
+  "repository": "https://MrcosFV2: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@github.com/MrcosFV2/server_node.git",
+  "author": "MarcosFort <marcos.fortvf@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
